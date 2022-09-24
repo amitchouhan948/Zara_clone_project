@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Individual Project At Masai School “Max-Fashion Clone”.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Before I start my blog writing on the clone of the website, I want to thank Masai School for this great opportunity and for providing this great platform to enhance my coding and life skills. We have tried our level best to make use of our so far journey and the knowledge that we have gained so far at Masai School to come up with our project.
 
 ## Available Scripts
 
