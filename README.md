@@ -12,7 +12,7 @@ React, json-server, Chakra-ui , React-Router-Dom, API(Heroku deployed)
 
 ### Some Glimpse and Screenshots of our website:-
 
-<img width=100% src="" alt="image" />
+<!-- <img width=100% src="" alt="image" /> -->
 
 ### Home Page
 
@@ -30,7 +30,7 @@ React, json-server, Chakra-ui , React-Router-Dom, API(Heroku deployed)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Deployed using vercel: [https://zara-clone-cw.vercel.app/](https://zara-clone-cw.vercel.app/)
 
 ### Learning
 
