@@ -1,28 +1,22 @@
-# Individual Project At Masai School “Max-Fashion Clone”.
+# Individual Project At Masai School “Zara Clone”.
 
 Before I start my blog writing on the clone of the website, I want to thank Masai School for this great opportunity and for providing this great platform to enhance my coding and life skills. We have tried our level best to make use of our so far journey and the knowledge that we have gained so far at Masai School to come up with our project.
 
-## Available Scripts
+## Project Details
 
-In the project directory, you can run:
+I have made this website in 5 days in construct week in masai school. this is a E-Commerce website for diffrent type of products of men, women, girls, and boys which have following catagory of products like shoes, bags, hanky ,belts etc.
 
-### `npm start`
+### Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React, json-server, Chakra-ui , React-Router-Dom, API(Heroku deployed)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Some Glimpse and Screenshots of our website:-
 
-### `npm test`
+<img width=100% src="" alt="image" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home Page
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width=100% src="https://i.imgur.com/76gZbje.png" alt="image" />
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
